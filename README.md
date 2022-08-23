@@ -11,3 +11,7 @@
 
 ### Hi there 👋
 
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+
