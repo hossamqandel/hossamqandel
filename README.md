@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![asPng](https://user-images.githubusercontent.com/63760755/186248480-353a5a76-8e46-4cf0-89fa-53337919680e.png)
+![asPng2](https://user-images.githubusercontent.com/63760755/186248846-52ab6cb6-53c2-42cc-8578-407ab461f9dd.png)
 
 - 🔭 I’m currently working on EasyChat Android Application
 - 🌱 I’m currently learning Google Maps SDK
