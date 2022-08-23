@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gossam GitHub Banner]([./assets/GitHubHeader.png](https://imgur.com/undefined))]()
+[![Hossam GitHub Banner](https://imgur.com/undefined)]()
 
 - 🔭 I’m currently working on EasyChat Android Application
 - 🌱 I’m currently learning Google Maps SDK
