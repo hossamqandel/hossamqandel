@@ -14,7 +14,7 @@
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=Royal_Fuchsia&color=4AB197)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=Light_Crimson&color=4AB197)
 ![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=oop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=UFO_Green&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=yello&color=f7c52a)
