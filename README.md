@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=oop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=yello&color=f7c52a)
 ![](https://img.shields.io/badge/Code-Room_Databse-informational?style=flat&logo=roomdatabase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin_Coroutines-informational?style=flat&logo=coroutines&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MVVM-informational?style=flat&logo=mvvm&logoColor=white&color=4AB197)
