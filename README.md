@@ -11,6 +11,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hossamqandeel/)
 
-[![Github Badge]([https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8))](https://github.com/hossamqandel)
+[![Github Badge]([https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8](https://github.com/hossamqandel)
 
 
