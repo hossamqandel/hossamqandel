@@ -19,4 +19,4 @@
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RoomDatabse-informational?style=flat&logo=roomdatabase&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Kotlin-Coroutines-informational?style=flat&logo=kotlin-coroutines&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Coroutine-informational?style=flat&logo=coroutine&logoColor=white&color=4AB197)
