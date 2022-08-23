@@ -8,3 +8,5 @@
 - 📫 How to reach me: hossam.s.qandeel@gmail.com
 - ⚡ Fun fact: I was one of the most haters of the Kotlin language because of my strong attachment to the Java language..but now things are different and all my projects are in Kotlin
 -->
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hossamqandeel/)
