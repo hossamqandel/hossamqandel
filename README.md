@@ -24,5 +24,5 @@
 ![](https://img.shields.io/badge/Code-Dagger_Hilt-informational?style=flat&logo=daggerhilt&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-REST_APIs-informational?style=flat&logo=restapis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Navigation-informational?style=flat&logo=navigation&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-RX_Java-informational?style=flat&logo=rxjava&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-RxJava-informational?style=flat&logo=rx_java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=cinnabar&color=4AB197)
