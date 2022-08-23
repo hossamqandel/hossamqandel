@@ -23,3 +23,5 @@
 ![](https://img.shields.io/badge/Code-MVVM-informational?style=flat&logo=mvvm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-DaggerHilt-informational?style=flat&logo=daggerhilt&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RESTAPIs-informational?style=flat&logo=restapis&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Navigation-informational?style=flat&logo=navigation&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-RXJava-informational?style=flat&logo=rxjava&logoColor=white&color=4AB197)
