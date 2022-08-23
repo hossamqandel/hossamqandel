@@ -25,3 +25,4 @@
 ![](https://img.shields.io/badge/Code-RESTAPIs-informational?style=flat&logo=restapis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Navigation-informational?style=flat&logo=navigation&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-RXJava-informational?style=flat&logo=rxjava&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=git&logoColor=white&color=4AB197)
