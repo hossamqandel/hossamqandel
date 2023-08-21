@@ -31,8 +31,8 @@
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-f7c52a?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Room_Databse-f7c52a?style=for-the-badge&logo=room_databse&logoColor=white)
 
-![](https://img.shields.io/badge/Code-Room_Databse-informational?style=flat&logo=roomdatabase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin_Coroutines-informational?style=flat&logo=coroutines&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MVVM-informational?style=flat&logo=mvvm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Dagger_Hilt-informational?style=flat&logo=daggerhilt&logoColor=white&color=4AB197)
@@ -41,7 +41,6 @@
 ![](https://img.shields.io/badge/Code-RxJava-informational?style=flat&logo=rxjava&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=cinnabar&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Clean_Architecture-informational?style=flat&logo=clean_architecture&logoColor=cinnabar&color=4AB197)
-![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit)
 ![]()
