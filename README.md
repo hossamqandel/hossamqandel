@@ -31,7 +31,7 @@
 
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-f7c52a?style=for-the-badge&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/Room_Database-f7c52a?style=for-the-badge&logo=room_database&logoColor=white)
+![](https://img.shields.io/badge/Room_Database-6DB33F?style=for-the-badge&logo=room_database&logoColor=white)
 
 ![](https://img.shields.io/badge/Code-Kotlin_Coroutines-informational?style=flat&logo=coroutines&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MVVM-informational?style=flat&logo=mvvm&logoColor=white&color=4AB197)
