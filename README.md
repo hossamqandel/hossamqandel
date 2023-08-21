@@ -22,7 +22,12 @@
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=oop&logoColor=white&color=4AB197)
+
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=firebase&logoColor=yello&color=f7c52a)
 ![](https://img.shields.io/badge/Code-Room_Databse-informational?style=flat&logo=roomdatabase&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Kotlin_Coroutines-informational?style=flat&logo=coroutines&logoColor=white&color=4AB197)
