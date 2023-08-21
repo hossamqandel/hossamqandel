@@ -43,7 +43,7 @@
 ![](https://img.shields.io/badge/Tools-Clean_Architecture-informational?style=flat&logo=clean_architecture&logoColor=cinnabar&color=4AB197)
 
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit)
-![](https://img.shields.io/badge/Postman-B1361E?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Postman-E44C30?style=for-the-badge&logo=postman&logoColor=white)
 ![]()
 ![]()
 ![]()
