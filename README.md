@@ -12,6 +12,8 @@
 
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hossamegyqandel?hr_r=1) [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
 
+[![Google Play Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
+
 ### Hi there 👋
 
 ## 💼 Skills
