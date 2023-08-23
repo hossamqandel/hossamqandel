@@ -1,10 +1,9 @@
 ![asPng2](https://user-images.githubusercontent.com/63760755/186248846-52ab6cb6-53c2-42cc-8578-407ab461f9dd.png)
 
-- 🔭 I’m currently working on Tawseel Android Application
-- 🌱 I’m currently learning Google Maps SDK
-- 💬 Ask me about anything about Android || Kotlin || Java || OOP
-- 📫 How to reach me: hossam.s.qandeel@gmail.com
-- ⚡ Fun fact: I was one of the most haters of the Kotlin language because of my strong attachment to the Java language..but now things are different and all my projects are in Kotlin
+- 🔭 I’m currently working on Cryptocurrency Android Application
+- 🌱 I’m currently learning Google Maps & Android Modularization
+- 💬 Ask me about anything about Java || Kotlin || Android || OOP || Spring Boot
+- 📫 How to reach me: Linkedin.com/in/hossamqandeel/
 -->
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossamqandeel/)  
