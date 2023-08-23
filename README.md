@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Cryptocurrency Android Application
 - 🌱 I’m currently learning Google Maps & Android Modularization
 - 💬 Ask me about anything about Java || Kotlin || Android || OOP || Spring Boot
-- 📫 How to reach me: (https://www.linkedin.com/in/hossamqandeel/)
+- 📫 How to reach me: https://www.linkedin.com/in/hossamqandeel/
 
 -->
 
