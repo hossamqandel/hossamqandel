@@ -10,9 +10,9 @@ How to reach me 📫:
 [![Version controll](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/hossamqandeel/)
 
 ## 💼 Languages & Tools
-[![](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio&theme=light)](https://skillicons.dev) 
+[![](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,idea,flutter&theme=light)](https://skillicons.dev) 
 ![](https://file.io/XjXPtw1xyegU)
-[![](https://skillicons.dev/icons?i=idea,flutter,reactivex,firebase,spring,mongodb&theme=light)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=reactivex,firebase,spring,mongodb&theme=light)](https://skillicons.dev)
 
 [![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
 
