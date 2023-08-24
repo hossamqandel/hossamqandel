@@ -7,7 +7,7 @@
 
 How to reach me 📫:
 
-[![Version controll](https://skillicons.dev/icons?i=linkedin&theme=light)]([https://skillicons.dev](https://www.linkedin.com/in/hossamqandeel/))
+[![Version controll](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/hossamqandeel/)
 
 ## 💼 Languages & Tools
 [![](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio&theme=light)](https://skillicons.dev) 
