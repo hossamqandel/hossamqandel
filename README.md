@@ -10,13 +10,19 @@ How to reach me 📩:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossamqandeel/) [![Google Play Badge](https://img.shields.io/badge/Google_Play-d93d5b?style=for-the-badge&logo=google-play&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
 
+![](https://media.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif)
 
-## 💼 Skills & Tools
-[![Skills & Tools](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio&theme=dark)](https://skillicons.dev) 
+## 💼 Languages & Tools
+[![](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio&theme=dark)](https://skillicons.dev) 
 ![](https://file.io/TbYApYWshN76)
-[![Skills & Tools](https://skillicons.dev/icons?i=idea,flutter,reactivex,firebase,spring,mongodb&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=idea,flutter,reactivex,firebase,spring,mongodb&theme=dark)](https://skillicons.dev)
 
 [![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hossamegyqandel?hr_r=1)[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
+
+## 🎯 Skills
+### Object Oriented Programming | SOLID Principles | Design Patterns | Clean Code | Clean Architecture
+
+## 📚 Projects
 
