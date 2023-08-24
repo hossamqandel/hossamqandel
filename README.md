@@ -13,9 +13,10 @@
 
 
 ## 💼 Skills & Tools
-[![Skills & Tools](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,idea,flutter,reactivex,firebase,spring,mongodb&theme=light)](https://skillicons.dev)
+[![Skills & Tools](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio&theme=dark)](https://skillicons.dev) 
+![](https://file.io/TbYApYWshN76)
+[![Skills & Tools](https://skillicons.dev/icons?i=idea,flutter,reactivex,firebase,spring,mongodb&theme=dark)](https://skillicons.dev)
 
-[![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
+[![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=whit)
-
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
