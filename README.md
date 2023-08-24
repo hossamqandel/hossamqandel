@@ -6,10 +6,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/hossamqandeel/
 - 🪄 Fun fact: You cannot complete a project without using StackOverflow
 
+How to reach me 📩:
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossamqandeel/) [![Google Play Badge](https://img.shields.io/badge/Google_Play-d93d5b?style=for-the-badge&logo=google-play&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
-
-
-[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hossamegyqandel?hr_r=1)[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
 
 
 ## 💼 Skills & Tools
@@ -19,4 +18,5 @@
 
 [![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hossamegyqandel?hr_r=1)[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
+
