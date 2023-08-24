@@ -1,4 +1,4 @@
-![asPng2](https://user-images.githubusercontent.com/63760755/186248846-52ab6cb6-53c2-42cc-8578-407ab461f9dd.png)
+![asPng2](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 - 🔭 I’m currently working on Cryptocurrency Android Application
 - 🌱 I’m currently learning Google Maps & Android Modularization & Jetpack Compose
