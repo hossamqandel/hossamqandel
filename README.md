@@ -1,7 +1,7 @@
 ![asPng2](https://user-images.githubusercontent.com/63760755/186248846-52ab6cb6-53c2-42cc-8578-407ab461f9dd.png)
 
 - 🔭 I’m currently working on Cryptocurrency Android Application
-- 🌱 I’m currently learning Google Maps & Android Modularization
+- 🌱 I’m currently learning Google Maps & Android Modularization & Jetpack Compose
 - 💬 Ask me about anything about Java || Kotlin || Android || OOP || Spring Boot
 - 📫 How to reach me: https://www.linkedin.com/in/hossamqandeel/
 - 🪄 Fun fact: You cannot complete a project without using StackOverflow
@@ -14,7 +14,6 @@
 
 ## 💼 Skills & Tools
 [![Skills & Tools](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,idea,flutter,reactivex,firebase,spring,mongodb&theme=light)](https://skillicons.dev)
-![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 
 [![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
 
