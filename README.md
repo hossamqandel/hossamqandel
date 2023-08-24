@@ -10,7 +10,7 @@ How to reach me 📩:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossamqandeel/) [![Google Play Badge](https://img.shields.io/badge/Google_Play-d93d5b?style=for-the-badge&logo=google-play&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossamqandel&show_icons=true&theme=radical)
 
 ## 💼 Languages & Tools
 [![](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio&theme=dark)](https://skillicons.dev) 
