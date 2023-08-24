@@ -14,7 +14,7 @@
 
 ## 💼 Skills & Tools
 [![Skills & Tools](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,idea,flutter,reactivex,firebase,spring,mongodb&theme=light)](https://skillicons.dev)
-![](https://file.io/NK8Etgp35RHW)
+![Jetpack Compose](https://img.shields.io/static/v1?style=for-the-badge&message=Jetpack+Compose&color=4285F4&logo=Jetpack+Compose&logoColor=FFFFFF&label=)
 
 [![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
 
