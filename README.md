@@ -5,7 +5,7 @@
 - 💬 Ask me about anything about Java || Kotlin || Android || OOP || Spring Boot
 - 🪄 Fun fact: You cannot complete a project without using StackOverflow
 
-How to reach me 📫:
+Contact me 📫:
 
 [![Version controll](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/hossamqandeel/)
 
