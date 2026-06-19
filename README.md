@@ -1,22 +1,219 @@
-![SoftwareEngineer](https://i.ibb.co/yBscFZFb/Black-Technology-Linked-In-Banner-1.png)
+<!-- ========================================================= -->
+<!--                         HERO SECTION                       -->
+<!-- ========================================================= -->
 
-- 🔭 I’m currently working on Cryptocurrency Android Application
-- 🌱 I’m currently learning Google Maps & Android Modularization & Jetpack Compose
-- 💬 Ask me about anything about Java || Kotlin || Android || OOP || Spring Boot
-- 🪄 Fun fact: You cannot complete a project without using StackOverflow
+<h1 align="center">
+    Hi 👋, I'm Hossam
+</h1>
 
-Contact me 📫:
+<h3 align="center">
+Backend Software Engineer | Java | Spring Boot | Distributed Systems
+</h3>
 
-[![Version controll](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/hossamqandeel/)
+<p align="center">
+Building scalable backend systems, designing clean APIs, and solving complex engineering problems.
+</p>
 
-## 💼 Languages & Tools
-[![](https://skillicons.dev/icons?i=java,kotlin,dart,androidstudio,idea,flutter&theme=light)](https://skillicons.dev) 
-![](https://file.io/XjXPtw1xyegU)
-[![](https://skillicons.dev/icons?i=reactivex,firebase,spring,mongodb&theme=light)](https://skillicons.dev)
+<p align="center">
+    <a href="https://www.linkedin.com/in/hossamqandeel/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40">
+    </a>
+    <a href="mailto:hossam.s.qandeel@gmail.com">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" width="40">
+    </a>
+</p>
 
-[![Version controll](https://skillicons.dev/icons?i=git,github,gitlab&theme=light)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)[![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hossamegyqandel?hr_r=1)[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Hossam%20Qandeel)
+---
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hossamqandel&show_icons=true&theme=radical"/>
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamqandel&layout=compact"/>
+# 🚀 About Me
+
+I am a Backend Software Engineer with [X] years of experience developing enterprise applications and microservices.
+
+I specialize in building reliable backend solutions using Java, Spring Boot, and modern software engineering practices.
+
+I enjoy working on challenges involving:
+
+- Designing scalable microservices
+- API architecture and integrations
+- Distributed communication
+- Performance optimization
+- Software quality and testing
+
+
+---
+
+# 🏆 Engineering Highlights
+
+### Centralized Notification Platform
+
+Designed and implemented a reusable notification library integrated with multiple microservices.
+
+**Impact:**
+- Reduced duplicated implementation effort
+- Standardized notification handling
+- Improved maintainability across services
+
+
+---
+
+### Event Driven Integrations
+
+Implemented asynchronous communication between distributed systems using message brokers.
+
+**Worked on:**
+- Producers and Consumers
+- Event contracts
+- Retry handling
+- Failure scenarios
+
+
+---
+
+# 🛠️ Technical Expertise
+
+
+## Backend
+
+- Java
+- Kotlin
+- Spring Boot
+- REST APIs
+- API Design
+- Validation & Exception Handling
+
+
+## Distributed Systems
+
+- Microservices
+- Event Driven Architecture
+- Apache Kafka
+- Asynchronous Communication
+
+
+## Database
+
+- PostgreSQL
+- MySQL
+- SQL Optimization
+
+
+## Cloud & DevOps
+
+- Docker
+- Kubernetes
+- CI/CD Pipelines
+- Linux
+
+
+## Software Engineering
+
+- Clean Architecture
+- Design Patterns
+- Unit Testing
+- Integration Testing
+- Agile Methodologies
+
+
+---
+
+# 📌 Featured Projects
+
+
+## 🛒 Enterprise E-Commerce System
+
+A production-like e-commerce backend demonstrating enterprise architecture.
+
+**Key Concepts:**
+
+- Clean Architecture
+- Authentication & Authorization
+- Caching
+- Testing
+- Database Design
+
+🔗 Repository: [Repository Link]
+
+
+---
+
+## 📦 Event Driven Order Processing System
+
+A microservices-based order management system.
+
+**Key Concepts:**
+
+- Apache Kafka
+- Event Publishing
+- Consumer Groups
+- Retry & Dead Letter Queue
+
+🔗 Repository: [Repository Link]
+
+
+---
+
+## ☁️ Cloud Native Backend Service
+
+A backend application designed for modern cloud deployment.
+
+**Key Concepts:**
+
+- Docker
+- Kubernetes
+- CI/CD
+- Monitoring & Logging
+
+🔗 Repository: [Repository Link]
+
+
+---
+
+# 📚 Currently Exploring
+
+I am continuously improving my knowledge in:
+
+- Advanced System Design
+- Cloud Architecture
+- Kubernetes
+- AI Applications for Backend Engineers
+
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hossamqandel&show_icons=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamqandel&layout=compact"/>
+
+</p>
+
+
+---
+
+# 🤝 Let's Connect
+
+I enjoy discussing:
+
+- Backend Engineering
+- Distributed Systems
+- System Design
+- Software Architecture
+
+
+📧 Email: hossam.s.qandeel@gmail.com
+
+💼 LinkedIn:
+[hossamqandeel](https://www.linkedin.com/in/hossamqandeel/)
+
+🌍 Portfolio:
+[Optional Website]
+
+
+---
+
+<p align="center">
+    Thanks for visiting my profile 😊
+</p>
