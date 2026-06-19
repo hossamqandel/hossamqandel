@@ -1,4 +1,4 @@
-![asPng2](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![SoftwareEngineer](https://i.ibb.co/yBscFZFb/Black-Technology-Linked-In-Banner-1.png)
 
 - 🔭 I’m currently working on Cryptocurrency Android Application
 - 🌱 I’m currently learning Google Maps & Android Modularization & Jetpack Compose
