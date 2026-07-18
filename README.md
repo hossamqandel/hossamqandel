@@ -110,7 +110,6 @@ I'm constantly improving my knowledge in software architecture and large-scale b
 - SOLID Principles
 - Design Patterns
 - OAuth2 & JWT
-- Domain-Driven Design (Learning)
 
 ---
 
