@@ -115,35 +115,13 @@ I'm constantly improving my knowledge in software architecture and large-scale b
 
 # 📂 Featured Projects
 
-### 🔔 Notification Platform
-
-A reusable notification library that enables multiple microservices to publish notifications through a standardized event-driven workflow.
-
-**Tech**
-
-`Java` `Spring Boot` `Kafka`
-
----
-
-### 🌐 URL Shortener
+### 🌐 System Design: URL Shortener
 
 A scalable URL shortening service built to explore backend architecture, caching, and database design.
 
 **Tech**
 
-`Java` `Spring Boot`
-
----
-
-### ⚡ Distributed Cache
-
-Learning project focused on implementing caching strategies, consistency, and performance optimization.
-
----
-
-### 🏛 System Design Playground
-
-A collection of backend implementations inspired by real-world distributed systems and system design interviews.
+`Java` `Spring Boot` `SQL` `Redis`
 
 ---
 
